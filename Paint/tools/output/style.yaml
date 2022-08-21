@@ -1,0 +1,43 @@
+---
+MainSourceFile:  '/home/student/Desktop/paint06-davidchengl74/button.cc'
+Diagnostics:     
+  - DiagnosticName:  modernize-loop-convert
+    Message:         use range-based for loop instead
+    FileOffset:      2206
+    FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+    Replacements:    
+      - FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+        Offset:          2209
+        Length:          42
+        ReplacementText: '(auto & i : Button_vector)'
+      - FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+        Offset:          2257
+        Length:          16
+        ReplacementText: i
+  - DiagnosticName:  modernize-loop-convert
+    Message:         use range-based for loop instead
+    FileOffset:      3162
+    FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+    Replacements:    
+      - FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+        Offset:          3165
+        Length:          42
+        ReplacementText: '(auto & i : Button_vector)'
+      - FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+        Offset:          3216
+        Length:          16
+        ReplacementText: i
+  - DiagnosticName:  modernize-loop-convert
+    Message:         use range-based for loop instead
+    FileOffset:      3783
+    FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+    Replacements:    
+      - FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+        Offset:          3786
+        Length:          42
+        ReplacementText: '(auto & i : Button_vector)'
+      - FilePath:        '/home/student/Desktop/paint06-davidchengl74/paint_program.cc'
+        Offset:          3834
+        Length:          16
+        ReplacementText: i
+...
