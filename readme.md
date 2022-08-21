@@ -3,7 +3,7 @@ Hi, welcome to my GitHub home page.
 <div> I studied computer science at California State University Fullerton. <div>
 <div> Here are some of my academic projects: <div>
 <br>
-<div> <i>Tuffix Paint Program</i>: a paint program designed similar to the Windows Paint using object-oriented programming in C++. <div>
+<div> <i>Tuffix Paint Program</i>: a paint program designed similar to the Windows Paint using object-oriented programming and event listener in C++. <div>
 <br>
 <div> <i>University Database Program</i>: a data base program with ER diagram designed based on university mini world, created SQL database hosted on CSUF ECS server with front-end web for data retrieval in HTML and PHP. <div>
 <br>
