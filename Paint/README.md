@@ -6,3 +6,4 @@ Project specifications
 
 <br>
 <div> Program Output<div>
+![Screenshot from 2022-08-21 17-10-09](https://user-images.githubusercontent.com/56775888/185817387-c3a15027-36d1-4567-94b3-825abd21c7f1.png)
