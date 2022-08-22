@@ -1,3 +1,4 @@
-Readme
-UDP Client 
-UDP Server
+#UDP Pinger Program
+*UDP Client
+
+*UDP Server
