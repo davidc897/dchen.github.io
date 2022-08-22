@@ -6,4 +6,4 @@ Project specifications
 
 <br>
 <div> Program Output:<div>
-![name-of-you-image](https://user-images.githubusercontent.com/56775888/185817387-c3a15027-36d1-4567-94b3-825abd21c7f1.png)
+![Test](https://user-images.githubusercontent.com/56775888/185817387-c3a15027-36d1-4567-94b3-825abd21c7f1.png)
