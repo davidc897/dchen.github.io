@@ -5,7 +5,7 @@ Hi, welcome to my GitHub home page.
 <br>
 <div> <i>Tuffix Paint Program</i>: a paint program designed similar to the Windows Paint using object-oriented programming and event listener in C++. <div>
 <br>
-<div> <i>University Database Program</i>: a data base program with ER diagram designed based on university mini world, created SQL database hosted on CSUF ECS server with front-end web for data retrieval in HTML and PHP. <div>
+<div> <i>University Database Program</i>: a data base program with ER diagram designed based on university mini world, created SQL database hosted on CSUF ECS server with front-end web page for data retrieval and addition in HTML and PHP. <div>
 <br>
 <div> <i>OS IPC Program</i>: A provider program and a consumer program open a shared memory location for data sharing with semaphore, and provider program contains zoom meeting minutes extracted from local file source, and consumer extracts the zoom meeting minutes through shared memory from provider and compute the total minutes for each participant. <div>
 <br>
