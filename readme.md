@@ -9,7 +9,7 @@ Hi, welcome to my GitHub home page.
 <br>
 <div> <i>OS IPC Program</i>: A provider program and a consumer program open a shared memory location for data sharing with semaphore, and provider program contains zoom meeting minutes extracted from local file source, and consumer extracts the zoom meeting minutes through shared memory from provider and compute the total minutes for each participant. <div>
 <br>
-<div> <i>Algorithm Sorting Visualization</i>: a program that visualize sorting algorithm written in python with matplotlib. <div>
+<div> <i>Algorithm Sorting Visualization</i>: a program that visualize sorting algorithm's efficiency measured in interation written in python with matplotlib. <div>
 <br>
 <div> <i>TCP/UDP Program</i>: a python program demonstrates client and server communicate interaction, the client sends data to the server using UDP and server responds back to the client with message and round-trip time. <div>
 <br>
