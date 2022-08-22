@@ -11,7 +11,7 @@ Hi, welcome to my GitHub home page.
 <br>
 <div> <i>Algorithm Sorting Visualization</i>: a program that visualize sorting algorithm written in python with matplotlib. <div>
 <br>
-<div> <i>TCP/UDP Program</i>: a python program demonstrates client and server communicate interaction, the client sends data to the server using UDP and server responds back to the client. <div>
+<div> <i>TCP/UDP Program</i>: a python program demonstrates client and server communicate interaction, the client sends data to the server using UDP and server responds back to the client with message and round-trip time. <div>
 <br>
 <div> <i>SpongeBob TV Show Database Program</i>: a database program that stored SpongBob TV Show data using SQLite and developed front-end retrieval and API to consume JSON data from other source. <div>
 <br>
