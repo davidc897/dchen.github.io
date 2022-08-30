@@ -1,6 +1,7 @@
 # dchen.github.io
 Hi, welcome to my GitHub home page. 
 <div> I studied computer science at California State University Fullerton. <div>
+<br>
 <div> Here are some of my academic projects: <div>
 <br>
 <div> <i>Tuffix Paint Program</i>: a paint program designed similar to the Windows Paint using object-oriented programming and event listener in C++. <div>
