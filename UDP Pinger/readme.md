@@ -1,6 +1,6 @@
 UDP Pinger Program:
 
-a python program demonstrates client and server communicate interaction, the client sends data to the server using UDP and server responds back to the client with message and round-trip time.
+A python program demonstrates client and server communicate interaction, the client sends data to the server using UDP and server responds back to the client with message and round-trip time.
 
 UDP Client
 
