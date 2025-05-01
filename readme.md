@@ -20,5 +20,3 @@ Hi, welcome to my GitHub home page.
 <br>
 <div> <i>Pacman Project</i>: a Pacman game project in python, with DFS and BFS and other search algorithm implemented for the Pacman search agent for maze navigation / basic computer vision. <div>
 <br>
-<div> <i>ML Program</i>: a ML program to classify digits and type of language in python. <div>
-<br>
